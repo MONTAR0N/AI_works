@@ -1,0 +1,2558 @@
+Personal Systems Reference
+Lenovo® Essential Notebooks
+ January 2012 - Version 412
+Visit www.lenovo.com/psref for the latest version
+Lenovo V470
+Lenovo V470 Lenovo V470Lenovo V470
+Lenovo V470
+Lenovo V470
+Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i3-2310M processor (dual-core, 2.10GHz, 3MB cache),
+DDR3 memory controller (up to 1333MHz), HT technology Intel Core i3-2330M processor (dual-core, 2.20GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technologyIntel Core i5-2430M processor (dual-core, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz), HT technologyIntel Core i7-2630QM processor (quad-core, 2.00 GHz, 6MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i7-2670QM processor (quad-core, 2.20 GHz, 6MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz), HT technology
+8GB max
+7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+500GB (5400 rpm) or 750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high, Active Protection System™
+14.0" (355.6mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus, LED indicator
+Intel HD Graphics 3000 in processor, uses system memory,
+external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+NoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 13.4" x 9.2" x 0.8" to 1.2"; 340mm x 234.6mm x 20.7mm to 31.3mm
+with optical drive and battery: 6-cell: 4.85 lb (2.2 kg)
+Black top, black bottom 
+Top and palm rest: Aluminum Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 5 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+Two PCIe Mini Card slots
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+Memory
+SATA DVD ±RW
+SATA diskWidescreen  
+     display Camera
+ Graphics
+Keyboard 
+Touch controls
+Light sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® V470 (4396) - Integrated (Windows 7) - web only models
+Dual-core models:  65-watt AC adapterQuad-core models:  90-watt AC adapterWireless on/off switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant4396-27U i7-2630QM 2.00 2.90 4+2GB 14.0" HD LED 2.0M Intel HD 750GB8DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+4396-28U i3-2310M 2.10 2GBx2 14.0" HD LED 2.0M Intel HD 500GB DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+4396-2BU i3-2330M 2.20 4GBx1 14.0" HD LED 2.0M Intel HD 500GB DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+4396-2PU i5-2430M 2.40 3.00 4+2GB 14.0" HD LED 2.0M Intel HD 750GB DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+4396-2FU i7-2670QM 2.20 3.10 4+2GB 14.0" HD LED 2.0M Intel HD 750GB DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(JADT1-2) December 2011See footnotes for important warranty information                                                            
+☞ US models announced December 21, 2011; previous models on June 8, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live Essential• CyberLink Y ouCam
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 14.0" widescreen, glossy display with LED backlight
+•  Integrated 2.0 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage password•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDMax
+turbo
+(GHz)Fingerprint
+reader
+☞☞☞BatteryWidescreen ﬂ  exibility; two-spindle
+Intel® Core™ i5-2410M processor (dual-core, 2.30GHz, 3MB cache),
+DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technology
+8GB max7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+500GB (5400 rpm) or 750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high, Active Protection System™
+14.0" (355.6mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus, LED indicator
+NVIDIA
+® Optimus™ technology, auto-switch between discrete and integrated graphics,
+Intel HD Graphics 3000 in processor, and
+NVIDIA GeForce® GT 525M, PCI Express® x16, 1GB DDR3 memory, DirectX® 11,
+NVIDIA CUDA™ technology,external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+NoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 13.4" x 9.2" x 0.8" to 1.2"; 340mm x 234.6mm x 20.7mm to 31.3mm
+with optical drive and battery: 6-cell: 4.85 lb (2.2 kg)
+Black top, black bottom 
+Top and palm rest: Aluminum Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 5 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+Two PCIe Mini Card slots
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+MemorySATA DVD ±RW
+SATA diskWidescreen  
+     display Camera
+ Graphics
+Keyboard 
+Touch controls
+Light sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® V470 (4396) - NVIDIA (Windows 7) - web only models
+90-watt AC adapter Wireless on/off switchGraphic Optimus/Integrated switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant4396-25U i5-2410M 2.30 2.90 2GBx2 14.0" HD LED 2.0M GT 525M 500GB8DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+4396-26U i5-2410M 2.30 2.90 4+2GB 14.0" HD LED 2.0M GT 525M 750GB DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(JADT1-1) June 2011See footnotes for important warranty information                                                            
+US models announced June 8, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live Essential• CyberLink Y ouCam
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 14.0" widescreen, glossy display with LED backlight
+•  Integrated 2.0 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage password•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDMax
+turbo
+(GHz)Fingerprint
+reader BatteryLenovo V570
+Lenovo V570 Lenovo V570Lenovo V570
+Lenovo V570
+Lenovo V570
+Widescreen ﬂ  exibility; two-spindle
+Intel® Pentium® B950 processor (dual-core, 2.10GHz, 2MB cache),
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2330M processor (dual-core, 2.20GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technologyIntel Core i5-2410M processor (dual-core, 2.30GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i5-2430M processor (dual-core, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz), HT technologyIntel Core i7-2630QM processor (quad-core, 2.00GHz, 6MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i7-2670QM processor (quad-core, 2.20GHz, 6MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz), HT technology
+8GB max
+7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+500GB (5400 rpm) or 750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high, Active Protection System™
+15.6" (396.2mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus, LED indicator
+Intel HD Graphics in processor, uses system memory,
+external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+Numeric keypad on right of keyboardNoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 14.9" x 9.9" x 1.3"; 378mm x 252mm x 32.3mm
+with optical drive and battery: 6-cell: 5.29 lb (2.4 kg)
+Silver gray top, black bottom 
+Top and palm rest: Aluminum Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 5 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), 
+ether
+net (RJ-45)
+NoneTwo PCIe Mini Card slots
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+Memory
+SATA DVD ±RW
+SATA diskWidescreen  
+     display Camera
+Graphics
+Keyboard 
+Numeric keypad
+Touch controlsLight sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® V570 (1066) - Integrated (web only models)
+Some: 65-watt AC adapter 
+Some: 90-watt AC adapter 
+Wireless on/off switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1066-ABU i3-2330M 4GBx1 15.6" HD LED 2.0M Intel HD 500GB8DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 65W Prem 64
+1066-ACU i5-2410M 4GBx1 15.6" HD LED 2.0M Intel HD 500GB DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 65W Prem 64
+1066-AEU i7-2630QM 4+2GB 15.6" HD LED 2.0M Intel HD 750GB DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 90W Prem 64
+1066-AAU B950 4GBx1 15.6" HD LED 2.0M Intel HD 500GB DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 65W Prem 64
+1066-ARU i5-2430M 4+2GB 15.6" HD LED 2.0M Intel HD 750GB DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 65W Prem 64
+1066-ANU i7-2670QM 4GBx2 15.6" HD LED 2.0M Intel HD 750GB DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 90W Prem 64Type-modelPro-cessorWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(AGAT1-1) December 2011See footnotes for important warranty information                                                            
+☞ US models announced December 21, 2011; previous models on August 17, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live Essentials• CyberLink Y ouCam
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 15.6" widescreen, glossy display with LED backlight
+•  Integrated 2.0 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage password•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDFingerprint
+reader
+☞☞BatteryAC
+adapterWidescreen ﬂ  exibility; two-spindle
+Intel® Core™ i5-2410M processor (dual-core, 2.30GHz, 3MB cache),
+DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technology
+8GB max7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high, Active Protection System™
+15.6" (396.2mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus, LED indicator
+NVIDIA
+® Optimus™ technology, auto-switch between discrete and integrated graphics,
+Intel HD Graphics in processor, and
+NVIDIA GeForce® GT 525M, PCI Express® x16, 1GB DDR3 memory, DirectX® 11,
+NVIDIA CUDA™ technology,external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+Numeric keypad on right of keyboardNoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 14.9" x 9.9" x 1.3"; 378mm x 252mm x 32.3mm
+with optical drive and battery: 6-cell: 5.29 lb (2.4 kg)
+Silver gray top, black bottom 
+Top and palm rest: Aluminum Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 5 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), 
+ether
+net (RJ-45)
+NoneTwo PCIe Mini Card slots
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+MemorySATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Graphics
+Keyboard 
+Numeric keypad
+Touch controlsLight sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® V570 (1066) - NVIDIA (web only models)
+90-watt AC adapter Wireless on/off switchGraphic Optimus/Integrated switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1066-ADU i5-2410M 2+4GB 15.6" HD LED 2.0M GT 525M 750GB8DVD ±RW Intel 1000 Gray Fingerprint BT2.1 6-cell 90W Prem 64Type-modelPro-cessorWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(AGAT1-2) August 2011See footnotes for important warranty information                                                            
+US model(s) announced August 17, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live Essentials• CyberLink Y ouCam
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 15.6" widescreen, glossy display with LED backlight
+•  Integrated 2.0 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage password•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDFingerprint
+reader BatteryAC
+adapterWidescreen ﬂ  exibility; two-spindle
+Intel® Celeron® B800 processor (dual-core, 1.50GHz, 2MB cache),
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2310M processor (dual-core, 2.10GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technology Intel Core i3-2330M processor (dual-core, 2.20GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technology
+8GB max
+7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+500GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high
+14.0" (355.6mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 200 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus, LED indicator
+Intel HD Graphics in processor, uses system memory,
+external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+NoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 13.4" x 9.2" x 1.3"; 340mm x 234.6mm x 33.6mm
+with optical drive and battery: 6-cell: 4.85 lb (2.2 kg)
+Black top, black bottom 
+Top and palm rest: Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 6 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+Two PCIe Mini Card slotsSome: 
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Some: 11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Some: Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+Memory
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Graphics
+Keyboard 
+Touch controls
+Light sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000 11b/g/nBluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® B470 (4315) - Integrated (Windows 7) - web only models
+Integrated models:  65-watt AC adapterWireless on/off switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant4315-24U i3-2310M 2.10 None 2GBx2 14.0" HD LED 0.3M Intel HD 500GB8DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+4315-25U B800 1.50 None 4GBx1 14.0" HD LED 0.3M Intel HD 500GB DVD ±RW 11b/g/n Black Fingerprint 6-cell Prem 64
+4315-26U i3-2330M 2.20 None 4GBx1 14.0" HD LED 0.3M Intel HD 500GB DVD ±RW 11b/g/n Black Fingerprint 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(RUBY1-1) December 2011See footnotes for important warranty information                                                            
+☞ US models announced December 21, 2011; previous models on June 22, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live Essentials• CyberLink Y ouCam
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 14.0" widescreen, glossy display with LED backlight
+•  Integrated 0.3 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage passwords•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  This system is Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDMax
+turbo
+(GHz)Fingerprint
+reader
+☞☞BatteryWidescreen ﬂ  exibility; two-spindle
+Intel® Core™ i5-2410M processor (dual-core, 2.30GHz, 3MB cache),
+DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technology
+8GB max7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+500GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high
+14.0" (355.6mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 200 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus, LED indicator
+NVIDIA
+® Optimus™ technology, auto-switch between discrete and integrated graphics,
+Intel HD Graphics 3000 in processor, and
+NVIDIA GeForce® 410M, PCI Express® x16, 1GB DDR3 memory, DirectX® 11,
+NVIDIA CUDA™ technology,external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+NoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 13.4" x 9.2" x 1.3"; 340mm x 234.6mm x 33.6mmwith optical drive and battery: 6-cell: 4.85 lb (2.2 kg)
+Black top, black bottom Top and palm rest: Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 5.8 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+Two PCIe Mini Card slots
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+MemorySATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Graphics
+Keyboard 
+Touch controls
+Light sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® B470 (4315) - NVIDIA (Windows 7) - web only models
+Discrete models: 90-watt AC adapter Wireless on/off switchGraphic Optimus/Integrated switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant4315-23U i5-2410M 2.30 2.90 2GBx2 14.0" HD LED 0.3M GF 410M 500GB8DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(RUBY1-2) June 2011See footnotes for important warranty information                                                            
+US model announced June 22, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• CyberLink Y ouCam
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 14.0" widescreen, glossy display with LED backlight
+•  Integrated 0.3 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage passwords•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  This system is Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDMax
+turbo
+(GHz)Fingerprint
+reader BatteryWidescreen ﬂ  exibility; two-spindle
+Intel® Celeron® B800 processor (dual-core, 1.50GHz, 2MB cache),
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2310M processor (dual-core, 2.10GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technologyIntel Core i3-2330M processor (dual-core, 2.20GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technology Intel Core i5-2410M processor (dual-core, 2.30GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i5-2430M processor (dual-core, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz), HT technology
+8GB max
+7; PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+500GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high, 
+15.6" (396.2mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy); 
+LED backlight, 200 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus, LED indicator
+Intel HD Graphics in processor, uses system memory,
+external monitor support via analog VGA DB-15 connector / digital HDMI connector
+Full-size keyboard, 6-row, recovery key
+Numeric keypad on right of keyboardNoneNoneTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 14.9" x 9.9" x 1.3"; 378mm x 252mm x 33.1mm
+with optical drive and battery: 6-cell: 5.18 lb (2.35 kg)
+Black top, black bottom 
+Top and palm rest: Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic Bottom:     Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plastic
+Lithium Ion 6-cellUp to 5.8 hr
+Mobile Intel HM65 Express Chipset
+None6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO™, Secure Digital Card,Secure Digital High Capacity Card, xD-Picture Card™)Three USB 2.0 and one eSATA/USB combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+Two PCIe Mini Card slotsSome: 
+11b/g/n wireless4, PCIe Half Mini Card, Intel Centrino® Wireless-N 1000, 1x2
+Some: 11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Some: Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNoneGigabit ethernet, RealTek
+® RTL8111E, PCIe x1 
+High Deﬁ  nition (HD) Audio, RealTek ALC272 codec / stereo speakers (1.5 watt x 2) / one internal analog microphone, microphone input jack (3.5 mm), headphone jack (stereo, 3.5 mm)Power-on password, hard disk password, administrator password, security lockhole
+Fingerprint reader on palm rest, swipe sensorPositioningProcessor
+Memory
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+ Graphics
+Keyboard 
+Numeric keypad
+Touch controlsLight sensor
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case material
+Battery - type
+Battery - life10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card  Intel 1000 11b/g/nBluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® B570 (1068) - Integrated (Windows 7) - web only models
+Integrated models:  65-watt AC adapterWireless on/off switchEPEAT™ Silver ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1068-A2U i5-2410M 2.30 2.90 2GBx2 15.6" HD LED 0.3M Intel HD 500GB8DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+1068-A3U i3-2310M 2.10 2GBx2 15.6" HD LED 0.3M Intel HD 500GB DVD ±RW Intel 1000 Black Fingerprint BT2.1 6-cell Prem 64
+1068-ARU B800 1.50 4GBx1 15.6" HD LED 0.3M Intel HD 500GB DVD ±RW 11b/g/n Black Fingerprint 6-cell Prem 64
+1068-ASU i3-2330M 2.20 4GBx1 15.6" HD LED 0.3M Intel HD 500GB DVD ±RW 11b/g/n Black Fingerprint 6-cell Prem 64
+1068-B3U i5-2430M 2.40 3.00 4GBx1 15.6" HD LED 0.3M Intel HD 750GB DVD ±RW 11b/g/n Black Fingerprint 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe Mini 
+Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(SEPR1-1) December 2011See footnotes for important warranty information                                                            
+☞ US models announced December 21, 2011; previous models on June 22, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64 
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live Essentials• CyberLink Y ouCam• VeriFace™
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate • 
+Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• Lenovo Security Suite• USB Port Locker• BioExcess• 15.6" widescreen, glossy display with LED backlight
+•  Integrated 0.3 megapixel camera 
+•  Lenovo Rescue System provides OneKey™ recovery and OneKey Antivirus without 
+ booting into Windows
+•  Fingerprint reader for easy and secure login
+•  BioExcess provides a convenient way to quickly encrypt or decrypt ﬁ  les, 
+ switch accounts, and manage passwords•  USB Port Locker prevents unauthorized access by requiring ﬁ  ngerprint scan to unlock
+•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  1-year Lenovo Onsite Repair13
+   78Y1532
+  1-year Onsite with accidental   damage protection 78Y1533
+  2-year Lenovo Onsite Repair
+13
+   78Y1536
+  3-year Lenovo Depot Repair   78Y1538 
+➫ 24x7
+16 toll-free support for warranty   
+ issues during the warranty period12
+ via 877-453-6686Blue-
+toothCCFL
+or
+LEDMax
+turbo
+(GHz)Fingerprint
+reader
+☞☞☞BatteryLenovo G460
+Lenovo G560 Lenovo G460Lenovo G460
+Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i3 processor i3-330M, i3-370M, or i3-380M with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),Hyper-Threading technology, and 3MB cacheIntel Core i5 processor i5-430M, i5-460M, i5-480M, or i5-560M with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),Intel Turbo Boost, Hyper-Threading technology, and 3MB cache
+4GB std / 8GB max
+7 / PC3-8500 1066MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;
+Italics:  standard memory in both sockets; no sockets available
+NoneDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in320GB (5400 rpm), 500GB (5400 rpm), or 750GB (5400 rpm) / 
+SATA 3.0Gb/s, 9.5mm high
+14.0" (355.6mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus
+Some: Intel HD Graphics in processor,
+Some:  NVIDIA
+® GeForce® 310M, PCI Express x16, 512MB memory, 
+    DirectX 10.1, PureVideo® HD technology, CUDA ™ technology
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector
+Full-size keyboard, multimedia Fn keys, recovery key
+NoneOneKey Theater, mute, volume up, and volume down buttonsTwo-button touch pad with scroll feature (no TrackPoint
+®)
+(WxDxH): 13.4" x 9.13" x 0.68" to 1.35"; 340.0mm x 231.8mm x 17.2 to 34.4mm
+with optical drive and battery: 6-cell: from 4.85 lb (2.2kg)
+Black top, black bottom Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellDiscrete models: up to 3.5 hr;  Integrated models: up to 4 hr
+Mobile Intel HM55 Express Chipset
+One slot (ExpressCard/34)5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Two USB 2.0, one USB 2.0/eSATA combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter
+Bluetooth 2.1 wireless, USB 2.0 interfaceNone10/100 ethernet, RealTek
+® RTL8103EL
+High Deﬁ  nition (HD) Audio, Conexant® CX20671 codec / 
+stereo speakers (2 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Power-on password, hard disk password, supervisor password, security lockholeNonePositioningProcesso
+Memory
+Diskette drive
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+ Graphics
+Keyboard 
+Numeric keypad
+Touch controls
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G460 (0677) - Windows 7 (web only models)
+65-watt AC adapter Wireless on/off switchENERGY STAR
+® 5.0-compliant
+RoHS-compliant0677-2GU i3-330M 2.13 4GB 14.0" HD 0.3M Intel HD 320GB8DVD ±RW  11b/g/n28Black HDMI Blue 6-cell Prem 64 Jan 10
+0677-7CU i3-370M 2.40 4GB 14.0" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Pro 64 Oct 10
+0677-7DU i5-460M 2.53 2.80 4GB 14.0" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Pro 64 Oct 10
+0677-7TU i3-370M 2.40 4GB 14.0" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Prem 64 Oct 10
+0677-7UU i5-460M 2.53 2.80 4GB 14.0" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Prem 64 Oct 10
+0677-7SU i3-370M 2.40 4GB 14.0" HD 0.3M Intel HD 750GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Pro 64 Dec 10
+0677-2WU i5-430M 2.26 2.53 4GB 14.0" HD 0.3M GF 310M 320GB DVD ±RW  Intel 1000 Black HDMI Blue 6-cell Prem 64 Dec 10
+0677-7EU i5-560M 2.66 3.20 4GB 14.0" HD 0.3M GF 310M 500GB DVD ±RW  Intel 1000 Black HDMI Blue 6-cell Prem 64 Dec 10
+0677-9UU i3-380M 2.53 4GB 14.0" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Prem 64 Mar 11
+0677-9XU i5-480M 2.66 2.93 4GB 14.0" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black HDMI Blue 6-cell Prem 64 Mar 11Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadAvail
+datePersonal Systems Reference (PSREF)
+© Lenovo
+(EFL1-1) March 2011See footnotes for important warranty information           
+☞ US models announced March 2, 2011; previous models on January 26, October 20, or December 1, 2010
+✂ US model withdr awn effective December 2010Preloaded operating system20 
+-  Some: Genuine Windows® 7
+   Home Premium 64
+-  Some: Genuine Windows 7   Professional 64
+Preloaded applications
+14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 14.0" widescreen, glossy display
+•  Integrated 0.3 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cells
+✂HDMI
+con-
+nectorMax
+turbo
+(GHz)
+☞☞Widescreen ﬂ  exibility; two-spindle
+Intel® Celeron® B800 processor (dual-core, 1.50GHz, 2MB cache),
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2310M processor (2 cores / 4 threads, 2.10GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i3-2330M processor (2 cores / 4 threads, 2.20GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i5-2410M processor (2 cores / 4 threads, 2.30GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz)Intel Core i5-2430M processor (2 cores / 4 threads, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz)
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsNone
+Some: DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+Some: Blu-ray™ Disc reader (no Blu-ray burning), DVD recordable, 12.7mm, tray-in
+500GB (5400 rpm), 640GB (5400 rpm), or 750GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+14.0" (355.6mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus
+Some: Intel HD Graphics in processor;
+Some:  AMD Radeon™ HD 6370M Graphics, PCI Express x16, 512MB memory, 
+    DirectX
+® 11;
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector (HDCP-compliant)
+Full-size keyboard, multimedia Fn keys, recovery key
+NoneTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH): 13.4" x 9.13" x 0.68" to 1.35"; 340.0mm x 231.8mm x 17.2 to 34.4mm
+with optical drive and battery: 6-cell: from 4.85 lb (2.2kg)
+Black top, black bottom Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellDiscrete models: up to 5 hr;  Integrated models: up to 6 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Some:  Bluetooth 2.1 wireless + EDR, USB 2.0 interface
+None10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcesso
+Memory
+Diskette drive
+SATA optical
+SATA disk
+Widescreen  
+     display Camera
+Graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G470 (4328) - Windows 7 (web only models)
+Integrated models: 65-watt AC adapter 
+Discrete models:  90-watt AC adapter 
+Wireless on/off switchEPEA
+T™ Gold rating
+ENERGY STAR® 5.0-compliant
+RoHS-compliant4328-24U i3-2310M 2.10 2GBx2 14.0" HD 2.0M Intel HD 500GB8DVD ±RW  11b/g/n28Dark brown HDMI Blue 6-cell Prem 64
+4328-25U i3-2310M 2.10 2GBx2 14.0" HD 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-26U i5-2410M 2.30 2.90 2GBx2 14.0" HD 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-27U i5-2410M 2.30 2.90 2+4GB 14.0" HD 2.0M HD 6370M 640GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-2UU i5-2410M 2.30 2.90 2GBx2 14.0" HD 2.0M Intel HD 500GB Blu-ray 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-2VU i5-2410M 2.30 2.90 4GBx2 14.0" HD 2.0M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-2WU i5-2410M 2.30 2.90 4GBx2 14.0" HD 2.0M Intel HD 750GB Blu-ray 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-35U i5-2410M 2.30 2.90 2+4GB 14.0" HD 2.0M Intel HD 750GB DVD ±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-34U B800 1.50 4GBx1 14.0" HD 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI 6-cell Prem 64
+4328-39U i3-2330M 2.20 4GBx1 14.0" HD 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI 6-cell Prem 64
+4328-3DU i5-2430M 2.40 3.00 4GBx1 14.0" HD 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-3CU i5-2430M 2.40 3.00 4+2GB 14.0" HD 2.0M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4328-3BU i5-2430M 2.40 3.00 4GBx2 14.0" HD 2.0M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(DKBR1-1) December 2011See footnotes for important warranty information           
+☞ US models announced December 21, 2011; previous models on February 16, June 8, or September 1, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 14.0" widescreen, glossy display
+•  Integrated 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These system are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)GraphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cells
+☞☞☞☞☞HDMI
+con-
+nectorMax
+turbo
+(GHz)Widescreen ﬂ  exibility; two-spindle
+Intel® Pentium® processor P6100 or P6200 with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),and 3MB cache orIntel Core™ i3 processor i3-380M with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),Hyper-Threading technology, and 3MB cache orIntel Core i5 processor i5-430M with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),Intel Turbo Boost, Hyper-Threading technology, and 3MB cache
+2GB or 4GB std / 8GB max
+7 / PC3-8500 1066MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;
+Italics:  standard memory in both sockets; no sockets available;
+Non-italics: standard memory in one socket; 1 socket available
+None
+DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in250GB (5400 rpm), 320GB (5400 rpm), or 500GB (5400 rpm) / 
+SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus
+Intel HD Graphics in processor,
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector (on selected models)
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardOneKey Theater, mute, volume up, and volume down buttonsOne-piece touch pad with two button function, supports scroll feature
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Black top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cell6-cell: up to 4 hr
+Mobile Intel HM55 Express Chipset
+Some: One slot (ExpressCard/34)5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Two USB 2.0, one USB 2.0/eSATA combo port (eSATA available on selected models), ethernet (RJ-45), monitor (VGA DB-15, HDMI on selected models)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter
+NoneNone10/100 ethernet, RealTek
+® RTL8103EL
+High Deﬁ  nition (HD) Audio, Conexant® CX20671 codec / 
+stereo speakers (2 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Power-on password, hard disk password, supervisor password, security lockholeNonePositioningProcesso
+Memory
+Diskette drive
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypad
+Touch controls
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G560 (0679) - Windows 7
+65-watt AC adapter Wireless on/off switchENERGY STAR
+® 5.0-compliant
+RoHS-compliant0679-3JU i5-430M 2.26 2.53 4GB 15.6" HD 0.3M Intel HD 320GB8DVD ±RW  11b/g/n28Black HDMI /34 eSATA Prem 64 Apr 10
+0679-98U P6100 2.00 4GB 15.6" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black Prem 64 Aug 10
+0679-99U P6100 2.00 4GB 15.6" HD 0.3M Intel HD 320GB DVD ±RW  11b/g/n Black Prem 64 Aug 10
+0679-AJU P6200 2.13 2GB 15.6" HD 0.3M Intel HD 250GB DVD ±RW  11b/g/n Black Prem 64 Feb 11
+0679-ALU P6200 2.13 4GB 15.6" HD 0.3M Intel HD 320GB DVD ±RW  11b/g/n Black Prem 64 Feb 11
+0679-AKU i3-380M 2.53 4GB 15.6" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black Prem 64 Feb 11Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadAvail
+datePersonal Systems Reference (PSREF)
+© Lenovo
+(EFL2-2) February 2011See footnotes for important warranty information           
+☞ US models announced February 16, 2011; previous models on April 7 or August 25, 2010Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Express-
+CardeSATA
+port
+☞
+☞☞HDMI
+con-
+nectorMax
+turbo
+(GHz)Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i3 processor i3-330M with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),Hyper-Threading technology, and 3MB cache
+4GB std / 8GB max
+7 / PC3-8500 1066MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;
+Italics:  standard memory in both sockets; no sockets available
+NoneDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in320GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus
+Intel HD Graphics in processor,
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardOneKey Theater, mute, volume up, and volume down buttonsOne-piece touch pad with two button function, supports scroll feature
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Black top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cell6-cell: up to 4 hr
+Mobile Intel HM55 Express Chipset
+One slot (ExpressCard/34)5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Two USB 2.0, one USB 2.0/eSATA combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter
+NoneNone10/100 ethernet, RealTek
+® RTL8103EL
+High Deﬁ  nition (HD) Audio, Conexant® CX20671 codec / 
+stereo speakers (2 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Power-on password, hard disk password, supervisor password, security lockholeNonePositioningProcesso
+MemoryDiskette drive
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypad
+Touch controls
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G560 (0679) - Windows 7 - May 2010
+65-watt AC adapter Wireless on/off switchENERGY STAR
+® 5.0-compliant
+RoHS-compliant0679-23U i3-330M 2.13 None 4GB 15.6" HD 0.3M Intel HD 320GB8DVD ±RW  11b/g/n28Black HDMI None 6-cell Prem 64 Apr 10Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalMini PCIe
+802.11
+wirelessWin7
+preloadAvail
+datePersonal Systems Reference (PSREF)
+© Lenovo
+(EFL2-3) May 2010See footnotes for important warranty information           
+US model announced May 12, 2010Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate 
+• V
+eriFace™ 
+• Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  This system is Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+con-
+nectorMax
+turbo
+(GHz)Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i3 processor i3-330M with dual-core,
+DMI (Direct Media Interface), integrated DDR3 memory controller (up to 1066MHz),Hyper-Threading technology, and 3MB cache
+4GB std / 8GB max
+7 / PC3-8500 1066MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;
+Italics:  standard memory in both sockets; no sockets available
+NoneDVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in320GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus
+Intel HD Graphics in processor,
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardOneKey Theater, mute, volume up, and volume down buttonsOne-piece touch pad with two button function, supports scroll feature
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Black top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cell6-cell: up to 4 hr
+Mobile Intel HM55 Express Chipset
+One slot (ExpressCard/34)5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Two USB 2.0, one USB 2.0/eSATA combo port, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter
+NoneNone10/100 ethernet, RealTek
+® RTL8103EL
+High Deﬁ  nition (HD) Audio, Conexant® CX20671 codec / 
+stereo speakers (2 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Power-on password, hard disk password, supervisor password, security lockholeNonePositioningProcesso
+MemoryDiskette drive
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypad
+Touch controls
+Touch pad
+Dimensions3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G560 (0679) - Windows 7 (web only models)
+65-watt AC adapter Wireless on/off switchENERGY STAR
+® 5.0-compliant
+RoHS-compliant0679-2AU i3-330M 2.13 4GB 15.6" HD 0.3M Intel HD 320GB8DVD ±RW  11b/g/n28Black HDMI None 6-cell Prem 64 Jan 10Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadAvail
+datePersonal Systems Reference (PSREF)
+© Lenovo
+(EFL2-1) January 2010See footnotes for important warranty information           
+US model announced January 26, 2010Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  This system is Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connectorWidescreen ﬂ  exibility; two-spindle
+Intel® Celeron® Processor T3500 with dual-core,
+800MHz system bus, and 1MB L2 cache
+8GB max7 / PC3-8500 1066MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsNone
+DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in250GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high, removable
+15.6" (396.2mm) HD (WXGA 1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio
+Camera on top of screen, 0.3-megapixel, ﬁ  xed focus
+Intel Graphics Media Accelerator 4500MHD (GMA 4500MHD), in GM45,
+external analog monitor support via VGA DB-15 connector; Max external resolution: 2048x1536@85Hz (VGA)
+Full-size keyboard, Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH): 14.8" x 9.8" x 0.7" to 1.4"; 376mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6 kg)
+Dark blue top, black bottomPolycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cell6-cell: up to 4 hr
+Mobile Intel GM45 Express Chipset (Memory Controller Hub), 
+ICH9M I/O Controller Hub None5-in-1 reader (MultiMedia Card, Memory Stick
+®, Memory Stick PRO™, 
+Secure Digital Card, xD-Picture Card™)Three USB 2.0, external monitor (VGA), ethernet (RJ-45)
+None
+One Mini PCI Express slot
+11b/g/n wireless4, PCIe Half Mini Card, Broadcom® or Atheros® chip
+NoneNone10/100 ethernet, Atheros AR8152L High Deﬁ  nition (HD) Audio, Conexant 20671 codec / stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Power-on password, user password, supervisor password, security lockholeNonePositioningProcessor
+MemoryDiskette drive
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Integrated
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset 
+ExpressCard/34
+Multicard reader
+Ports
+TV tuner
+Mini PCI Express  
+11b/g/n
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G560e (1050) - Integrated (Windows 7)  
+65-watt AC adapter Wireless on/off switchRoHS-compliant1050-42U T3500 2.10 2GBx1 15.6" HD LED 0.3M 4500MHD GM45 250GB8DVD ±RW 11b/g/n28Dark Blue 5-in-1 None Prem 64 Apr 11Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalMini PCIe
+802.11
+wirelessWin7
+preloadAvail
+datePersonal Systems Reference (PSREF)
+© Lenovo
+(WSHT1-1) April 2011See footnotes for important warranty information           
+US model announced April 7, 2011Preloaded operating system20 
+-  Genuine Windows 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Windows Live™ Essentials • CyberLink Y ouCam• VeriFace™• Lenovo Energy Management Software• Cyberlink Power2Go (DVD±RW)
+• Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• 15.6" widescreen, glossy display
+•  Integrated 0.3 megapixel camera and Lenovo's VeriFace face recognition software 
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  This system is Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options  (in eligible locations):
+9
+  3-year Depot warranty 78Y1538
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothCard
+reader ChipsetCCFL
+or
+LEDWidescreen ﬂ  exibility; two-spindle
+Intel® Pentium® B940 processor (2 cores / 2 threads, 2.00GHz, 2MB cache), 
+DDR3 memory controller (up to 1333MHz)Intel Pentium B950 processor (2 cores / 2 threads, 2.10GHz, 2MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Pentium B960 processor (2 cores / 2 threads, 2.20GHz, 2MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2310M processor (2 cores / 4 threads, 2.10GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i3-2330M processor (2 cores / 4 threads, 2.20GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i3-2350M processor (2 cores / 4 threads, 2.30GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i5-2430M processor (2 cores / 4 threads, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz)Intel Core i5-2450M processor (2 cores / 4 threads, 2.50GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz)
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsNone
+DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in320GB (5400 rpm), 500GB (5400 rpm), or 750GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel, ﬁ  xed focus
+Intel HD Graphics in processor,
+external analog monitor support via VGA DB-15 connector, Some: digital monitor support via HDMI connector
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Black or dark brown top, black bottom Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellIntegrated models: up to 6 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI on some models), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Some: Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+SATA DVD ±RW
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G570 (4334) - Windows 7
+65-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® 5.0-compliant
+RoHS-compliant4334-46U i3-2310M 2.10 4GBx1 15.6" HD 0.3M Intel HD 500GB8DVD ±RW  11b/g/n28Dark brown HDMI 6-cell Prem 64
+4334-5NU i3-2310M 2.10 2GBx2 15.6" HD 0.3M Intel HD 320GB DVD ±RW  11b/g/n Dark brown 6-cell Prem 64
+4334-5TU i3-2310M 2.10 2GBx2 15.6" HD 0.3M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+4334-62U B940 2.00 2+1GB 15.6" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-4JU B940 2.00 2GBx1 15.6" HD 0.3M Intel HD 320GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-4QU B940 2.00 2GBx2 15.6" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-7RU B950 2.10 2GBx1 15.6" HD 0.3M Intel HD 320GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-7UU B950 2.10 4GBx1 15.6" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-7PU i3-2330M 2.20 4GBx1 15.6" HD 0.3M Intel HD 500GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-7QU i3-2330M 2.20 4+2GB 15.6" HD 0.3M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+4334-8PU i5-2430M 2.40 3.00 4GBx1 15.6" HD 0.3M Intel HD 750GB DVD ±RW  11b/g/n Black 6-cell Prem 64
+4334-9HU B960 2.20 2GBx1 15.6" HD 0.3M Intel HD 320GB DVD±RW 11b/g/n Black 6-cell Prem 64
+4334-9EU B960 2.20 4GBx1 15.6" HD 0.3M Intel HD 500GB DVD±RW 11b/g/n Black 6-cell Prem 64
+4334-9LU i3-2350M 2.30 4GBx1 15.6" HD 0.3M Intel HD 500GB DVD±RW 11b/g/n Black 6-cell Prem 64
+4334-9KU i5-2450M 2.50 3.10 4GBx1 15.6" HD 0.3M Intel HD 500GB DVD±RW 11b/g/n Black 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(LAGR1-2) January 2012See footnotes for important warranty information           
+☞ US models announced January 18, 2012; previous model on March 23, July 6, or October 13, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft
+® Ofﬁ  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  These systems are Microsoft Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphics Top colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cells
+☞
+☞☞☞HDMI
+connectorMax
+turbo
+(GHz)Widescreen ﬂ  exibility; two-spindle
+Intel® Celeron® B800 processor (2 cores / 2 threads, 1.50GHz, 2MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Pentium
+® B940 processor (2 cores / 2 threads, 2.00GHz, 2MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2310M processor (2 cores / 4 threads, 2.10GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i3-2350M processor (2 cores / 4 threads, 2.30GHz, 3MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core i5-2410M processor (2 cores / 4 threads, 2.30GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz)Intel Core i5-2430M processor (2 cores / 4 threads, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz)Intel Core i5-2450M processor (2 cores / 4 threads, 2.50GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz)
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;None
+Some: DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+Some: Blu-ray™ Disc reader (no Blu-ray burning), DVD recordable, 12.7mm, tray-in
+500GB (5400 rpm), 500GB (7200 rpm), or 750GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus
+Intel HD Graphics in processor, uses system memory,
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Dark brown top, black bottom Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellDiscrete models: up to 5 hr;  Integrated models: up to 6 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Some: Bluetooth 2.1 wireless + EDR, USB 2.0 interface
+None10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+SATA optical
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G570 (4334) - Windows 7 (web only models)
+65-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® 5.0-compliant
+RoHS-compliant4334-2HU i3-2310M 2.10 2GBx2 15.6" HD 2.0M Intel HD 500GB 5400 DVD ±RW  11b/g/n28Dark brown HDMI Blue 6-cell Prem 64
+4334-2JU i3-2310M 2.10 2GBx2 15.6" HD 2.0M Intel HD 500GB 5400 DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-2KU i5-2410M 2.30 2.90 2GBx2 15.6" HD 2.0M Intel HD 500GB 5400 DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-4AU i5-2410M 2.30 2.90 2GBx2 15.6" HD 2.0M Intel HD 500GB 5400 Blu-ray 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-5JU i5-2410M 2.30 2.90 4GBx2 15.6" HD 2.0M Intel HD 750GB 5400 DVD ±RW  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-5HU i5-2410M 2.30 2.90 4GBx2 15.6" HD 2.0M Intel HD 750GB 5400 Blu-ray 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-5ZU B940 2.00 2GBx1 15.6" HD 2.0M Intel HD 500GB 5400 DVD ±RW  11b/g/n Dark brown HDMI 6-cell Prem 64
+4334-5YU B940 2.00 4GBx1 15.6" HD 2.0M Intel HD 500GB 5400 DVD ±RW  11b/g/n Dark brown HDMI 6-cell Prem 64
+4334-7XU B800 1.50 4GBx1 15.6" HD 2.0M Intel HD 500GB 5400 DVD ±RW  11b/g/n Dark brown HDMI 6-cell Prem 64
+4334-A2U i5-2430M 2.40 3.00 4GBx1 15.6" HD 2.0M Intel HD 500GB 5400 Blu-ray  11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-A8U i5-2430M 2.40 3.00 4+2GB 15.6" HD 2.0M Intel HD 750GB 5400 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-B7U i5-2430M 2.40 3.00 4GBx2 15.6" HD 2.0M Intel HD 500GB 7200 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 644334-B8U i5-2430M 2.40 3.00 4+2GB 15.6" HD 2.0M Intel HD 500GB 7200 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 644334-CYU i3-2350M 2.30 4+2GB 15.6" HD 2.0M Intel HD 500GB 5400 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 644334-A5U i5-2430M 2.40 3.00 4GBx2 15.6" HD 2.0M Intel HD 750GB 5400 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-D4U i5-2450M 2.50 3.10 4GBx2 15.6" HD 2.0M Intel HD 500GB 5400 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 64
+4334-CZU i5-2450M 2.50 3.10 4GBx2 15.6" HD 2.0M Intel HD 750GB 5400 DVD±RW 11b/g/n Dark brown HDMI Blue 6-cell Prem 64Type-modelPro-
+cessor GHzWidescreen 
+display MemorySATA
+disk
+GB8   rpmSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(LAGR1-1) January 2012See footnotes for important warranty information           
+☞ US models announced January 18, 2012; previous models on February 16, June 8, August 10, October 13,  or December 21, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphics Top colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cells
+☞☞☞☞HDMI
+connectorMax
+turbo
+(GHz)Widescreen ﬂ  exibility; two-spindle
+AMD Accelerated Processor E-350 (dual-core, 1.60GHz, 1MB L2 cache),integrated AMD Radeon™ HD 6310M Graphics, integrated DDR3 memory controller(up to 1066MHz)AMD Accelerated Processor E-450 (dual-core, 1.65GHz, 1MB L2 cache),integrated AMD Radeon HD 6320M Graphics, integrated DDR3 memory controller(up to 1333MHz)
+8GB max
+7 / PC3-8500 1066MHz DDR3, non-parity, two 204-pin SO-DIMM sockets
+None
+DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in320GB (5400 rpm) or 500GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel or 2.0-megapixel, ﬁ  xed focus
+Some: AMD Radeon HD 6310M Graphics, in processor, DirectX
+® 11, use system memory,
+Some: AMD Radeon HD 6320M Graphics, in processor, DirectX 11, use system memory,
+External monitor support via analog VGA DB-15 connector
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Black top, black bottom Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellIntegrated models: up to 6 hr
+AMD A50M FCH
+None2-in-1 reader (MMC, Secure Digital Card)Four USB 2.0, external monitor (VGA DB-15), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+NoneNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+SATA opticalSATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard readerPorts
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G575 (4383) - Integrated
+40-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® 5.0-compliant
+RoHS-compliant4383-48U AMD E-350 1.60 4GBx1 15.6" HD LED 0.3M HD 6310M 500GB8DVD ±RW  11b/g/n28Black None None 6-cell Prem 64
+4383-3CU AMD E-350 1.60 1+2GB 15.6" HD LED 0.3M HD 6310M 320GB DVD ±RW  11b/g/n Black None None 6-cell Prem 64
+4383-3YU AMD E-450 1.65 4GBx1 15.6" HD LED 0.3M HD 6320M 500GB DVD±RW 11b/g/n Black None None 6-cell Prem 64
+4383-4HU AMD E-450 1.65 4GBx1 15.6" HD LED 0.3M HD 6320M 320GB DVD±RW 11b/g/n Black None None 6-cell Prem 64Type-model Processor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(SAMB1-1) October 2011See footnotes for important warranty information           
+☞ US models announced October 13, 2011; previous models on August 10, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm• ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 or 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without    
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop 
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connector
+☞
+☞Widescreen ﬂ  exibility; two-spindle
+AMD Accelerated Processor E-350 (dual-core, 1.60GHz, 1MB L2 cache),integrated AMD Radeon™ HD 6310M Graphics, integrated DDR3 memory controller(up to 1066MHz)
+8GB max
+7 / PC3-8500 1066MHz DDR3, non-parity, two 204-pin SO-DIMM sockets
+None
+DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in500GB (5400 rpm) or 750GB (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm) HD (1366x768) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 0.3-megapixel or 2.0-megapixel, ﬁ  xed focus
+AMD Radeon HD 6310M Graphics, in processor, DirectX
+® 11, use system memory,
+External monitor support via analog VGA DB-15 connectorFull-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH): 14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell: from 5.73 lb (2.6kg)
+Black top, black bottom Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellIntegrated models: up to 6 hr
+AMD A50M FCH
+None2-in-1 reader (MMC, Secure Digital Card)Four USB 2.0, external monitor (VGA DB-15), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+NoneNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+SATA opticalSATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard readerPorts
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G575 (4383) - Integrated (web only models)
+40-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® 5.0-compliant
+RoHS-compliant4383-3NU AMD E-350 1.60 4GBx1 15.6" HD LED 2.0M HD 6310M 750GB8DVD ±RW  11b/g/n28Black None None 6-cell Prem 64
+4383-3PU AMD E-350 1.60 4GBx1 15.6" HD LED 2.0M HD 6310M 500GB DVD±RW 11b/g/n Black None None 6-cell Prem 64Type-model Processor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(SAMB1-2) August 2011See footnotes for important warranty information           
+US models announced August 10, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm• ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 or 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without    
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop 
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connectorWidescreen ﬂ  exibility; two-spindle
+AMD Accelerated Processor E-450 (dual-core, 1.65GHz, 1MB L2 cache) ,
+integrated AMD Radeon ™ HD 6320M Graphics, integrated DDR3 memory controller
+(up to 1333MHz)
+8GB max7 / PC3-8500 1066MHz DDR3 , non-parity, two 204-pin SO-DIMM sockets
+None
+DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in750GB  (5400 rpm) / SATA 3.0Gb/s, 9.5mm high
+15.6" (396.2mm)  HD (1366x768) TFT color , VibrantView (glossy), 
+LED backlight,  220 nits, 16:9 aspect ratio, 500:1 contrast ratio
+Camera on top of screen, 0.3-megapixel or 2.0-megapixel, ﬁ  xed focus
+Dynamic switching between discrete and integrated graphics (user selectable),
+AMD Radeon HD 6320M Graphics  in processor, and
+AMD Radeon HD 6370M Graphics , PCI Express
+® x16, 1GB memory, DirectX® 11,
+external analog monitor support via VGA DB-15 connector
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature (no TrackPoint
+®), multi-touch
+(WxDxH):  14.83" x 9.83" x 0.68" to 1.37"; 376.8mm x 249.8mm x 17.3 to 34.9mm
+with optical drive and battery: 6-cell:  from 5.73 lb (2.6kg)
+Black top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cell
+Integrated models:  up to 6 hr
+AMD A50M FCH
+None2-in-1 reader (MMC, Secure Digital Card)Four USB 2.0, external monitor (VGA DB-15), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioning
+Processor
+Memory
+Diskette drive
+SATA opticalSATA disk
+Widescreen  
+     display Camera
+Switchable 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset 
+ExpressCard/34Multicard readerPorts
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth ™
+ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G575 (4383) - Switchable (web only models)
+65-watt AC adapter 
+Wireless on/off switchEPEAT ™ Gold rating
+ENERGY STAR
+® 5.0-compliant
+RoHS-compliant4383-4PU AMD E-450 1.65 4+2GB 15.6" HD LED 0.3M HD 6370M 750GB8DVD ±RW 11b/g/n28Black None BT2.1 6-cell Prem 64Type-model Processor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(SAMB1-3) October 2011See footnotes for important warranty information           
+US model(s) announced October 13, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)• Lenovo OneKey Recovery
+• Lenovo ReadyComm
+• ooVoo ™
+• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• CyberLink Y ouCam 
+• Microsoft Ofﬁ  ce 2010 preloaded; 
+ purchase product key to activate
+• VeriFace ™ 
+• Lenovo Energy Management
+ Software• Cyberlink Power2Go (DVD±RW)• 15.6" widescreen, glossy display
+•  Integrated 0.3 or 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without    
+ booting into Windows•  
+These systems are Microsoft® Ofﬁ ce 2010 Product Key Ready (O10PKR)GraphicsTop 
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic    components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connectorLenovo G770
+Lenovo G770 Lenovo G770Lenovo G770
+Lenovo G770
+Lenovo G770
+Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i3-2310M processor (dual-core, 2.10GHz, 3MB cache), 
+DDR3 memory controller (up to 1333MHz)Intel Core i3-2330M processor (dual-core, 2.20GHz, 3MB cache), DDR3 memory controller (up to 1333MHz)Intel Core i3-2350M processor (dual-core, 2.30GHz, 3MB cache), DDR3 memory controller (up to 1333MHz)Intel Core i5-2410M processor (dual-core, 2.30GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i5-2430M processor (dual-core, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz), HT technologyIntel Core i5-2450M processor (dual-core, 2.50GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz), HT technology
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsNone
+Some:  DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-in
+Some: Blu-ray™ Disc reader (no Blu-ray burning), DVD recordable, 12.7mm, tray-in500GB (5400 rpm) or 750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high
+17.3" (439.4mm) HD+ (1600x900) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus
+Intel HD Graphics 3000 in processor,
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector (HDCP-compliant)
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 16.38" x 10.71" x 1.42" to 1.77"; 416mm x 272mm x 36.1 to 44.9mm
+with optical drive and battery: 6-cell: from 6.61 lb (3.0kg)
+Dark brown top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellIntegrated models: up to 5 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Some: Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+Optical
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G770 (1037) - Integrated (Windows 7)
+65-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1037-2MU i3-2310M 2.10 2GBx2 17.3" HD+ 2.0M Intel HD 750GB8Blu-ray 11b/g/n28Dark brown HDMI 6-cell Prem 64
+1037-28U i3-2310M 2.10 2GBx2 17.3" HD+ 2.0M Intel HD 500GB DVD±RW 11b/g/n Dark brown HDMI 6-cell Prem 64
+1037-2LU i5-2410M 2.30 2.90 2GBx2 17.3" HD+ 2.0M Intel HD 750GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-2WU i3-2330M 2.20 4GBx1 17.3" HD+ 2.0M Intel HD 500GB DVD±RW 11b/g/n Dark brown HDMI 6-cell Prem 64
+1037-2UU i3-2330M 2.20 4GBx1 17.3" HD+ 2.0M Intel HD 750GB Blu-ray  11b/g/n Dark brown HDMI 6-cell Prem 64
+1037-2VU i5-2430M 2.40 3.00 4+2GB 17.3" HD+ 2.0M Intel HD 750GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 641037-2XU i5-2430M 2.40 3.00 4GBx2 17.3" HD+ 2.0M Intel HD 750GB Blu-ray  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 641037-5FU i3-2350M 2.30 4GBx1 17.3" HD+ 2.0M Intel HD 500GB DVD±RW 11b/g/n Dark brown HDMI 6-cell Prem 64
+1037-5WU i5-2450M 2.50 3.10 4+2GB 17.3" HD+ 2.0M Intel HD 500GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64Type-modelPro-
+cessor GHzWidescreen 
+display MemorySATA
+disk OpticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(BUD1-1) January 2012See footnotes for important warranty information           
+☞ US models announced January 18, 2012; previous models on July 6 or October 13, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• Windows Live™ Essentials • CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 17.3" widescreen, glossy display
+•  Integrated 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphicsTop
+colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connectorMax
+turbo
+(GHz)
+☞☞Widescreen ﬂ  exibility; two-spindle
+Intel® Celeron® B800 processor (2 cores / 2 threads, 1.50GHz, 2MB cache) , 
+DDR3 memory controller (up to 1333MHz)Intel Core™ i3-2330M processor (dual-core, 2.20GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), HT technologyIntel Core i5-2410M processor (dual-core, 2.30GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i5-2430M processor (dual-core, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz), HT technologyIntel Core i5-2450M processor (dual-core, 2.50GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz), HT technology
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;None
+Some:  DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-inSome: Blu-ray™ Disc reader (no Blu-ray burning), DVD recordable, 12.7mm, tray-in500GB (5400 rpm) or 750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high
+17.3" (439.4mm) HD+ (1600x900) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus
+Intel HD Graphics in processor,
+external analog monitor support via VGA DB-15 connector and digital monitor support via HDMI connector (HDCP-compliant)
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 16.38" x 10.71" x 1.42" to 1.77"; 416mm x 272mm x 36.1 to 44.9mm
+with optical drive and battery: 6-cell: from 6.61 lb (3.0kg)
+Dark brown top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellIntegrated models: up to 5 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+Optical
+SATA disk
+Widescreen  
+     display Camera
+Integrated 
+ graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G770 (1037) - Integrated (Windows 7) - web only models
+65-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1037-2GU i5-2410M 2.30 2.90 4GBx2 17.3" HD+ 2.0M Intel HD 750GB8DVD ±RW  11b/g/n28Dark brown HDMI BT2.1 6-cell Prem 64
+1037-2HU i5-2410M 2.30 2.90 2GBx2 17.3" HD+ 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-52U i5-2410M 2.30 2.90 4+2GB 17.3" HD+ 2.0M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-53U i5-2410M 2.30 2.90 4+2GB 17.3" HD+ 2.0M Intel HD 750GB Blu-ray   11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-2YU i3-2330M 2.20 4GBx1 17.3" HD+ 2.0M Intel HD 500GB DVD ±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-5NU i5-2430M 2.40 3.00 4GBx1 17.3" HD+ 2.0M Intel HD 500GB DVD ±RW  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-5MU i5-2430M 2.40 3.00 4+2GB 17.3" HD+ 2.0M Intel HD 750GB DVD ±RW  11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-5KU i5-2430M 2.40 3.00 4GBx2 17.3" HD+ 2.0M Intel HD 750GB DVD ±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-56U B800 1.50 4GBx1 17.3" HD+ 2.0M Intel HD 500GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-5SU i5-2450M 2.50 3.10 4GBx1 17.3" HD+ 2.0M Intel HD 500GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 641037-5RU i5-2450M 2.50 3.10 4+2GB 17.3" HD+ 2.0M Intel HD 750GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 641037-5PU i5-2450M 2.50 3.10 4GBx2 17.3" HD+ 2.0M Intel HD 750GB DVD±RW 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64Type-modelPro-
+cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(BUD1-2) January 2012See footnotes for important warranty information           
+☞ US models announced January 18, 2012; previous models on June 08, October 13, or December 21, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• Windows Live™ Essentials • CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 17.3" widescreen, glossy display
+•  Integrated 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Integrated
+graphics Top colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connectorMax
+turbo
+(GHz)
+☞☞☞☞Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i5-2410M processor (dual-core, 2.30GHz, 3MB cache),
+integrated Intel HD Graphics 3000, DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technology
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM socketsNone
+Blu-ray™ Disc reader (no Blu-ray burning), DVD recordable, 12.7mm, tray-in750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high
+17.3" (439.4mm) HD+ (1600x900) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus
+AMD Radeon™ HD 6650M, PCI Express
+® x16, 1GB DDR3 memory, DirectX® 11,
+external analog monitor support via VGA DB-15 connector and 
+digital monitor support via HDMI connector (HDCP-compliant)
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 16.38" x 10.71" x 1.42" to 1.77"; 416mm x 272mm x 36.1 to 44.9mm
+with optical drive and battery: 6-cell: from 6.61 lb (3.0kg)
+Dark brown top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellDiscrete models: up to 4.5 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+OpticalSATA disk
+Widescreen  
+     display Camera
+Graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G770 (1037) - Discrete (Windows 7)
+90-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1037-2KU i5-2410M 2.30 2.90 4+2GB 17.3" HD+ 2.0M HD 6650M 750GB8Blu-ray 11b/g/n28Dark brown HDMI BT2.1 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+disk OpticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(BUD1-4) July 2011See footnotes for important warranty information           
+US model announced July 6, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• Windows Live™ Essentials • CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (Blu-ray)• 17.3" widescreen, glossy display
+•  Integrated 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  This system is Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Graphics Top colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cellsHDMI
+connectorMax
+turbo
+(GHz)Widescreen ﬂ  exibility; two-spindle
+Intel® Core™ i5-2410M processor (dual-core, 2.30GHz, 3MB cache),
+DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (2.90GHz), HT technologyIntel Core i5-2430M processor (dual-core, 2.40GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.00GHz), HT technologyIntel Core i5-2450M processor (dual-core, 2.50GHz, 3MB cache),DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz), HT technology
+8GB max
+7 / PC3-10600 1333MHz DDR3, non-parity, 
+dual-channel capable, two 204-pin SO-DIMM sockets;None
+Some: DVD burner, dual-layer support, ﬁ  xed, not removable, 12.7mm high, tray-inSome: Blu-ray™ Disc reader (no Blu-ray burning), DVD recordable, 12.7mm, tray-in750GB (5400 rpm) / SATA 3.0Gb/s, 7mm or 9.5mm high
+17.3" (439.4mm) HD+ (1600x900) TFT color, VibrantView (glossy), 
+LED backlight, 220 nits, 16:9 aspect ratio, 500:1 contrast ratioCamera on top of screen, 2.0-megapixel, ﬁ  xed focus
+AMD Radeon™ HD 6650M, PCI Express
+® x16, 1GB DDR3 memory, DirectX® 11,
+external analog monitor support via VGA DB-15 connector and 
+digital monitor support via HDMI connector (HDCP-compliant)
+Full-size keyboard, multimedia Fn keys, recovery key
+Numeric keypad on right of keyboardTwo-button touch pad with scroll feature, multi-touch
+(WxDxH): 16.38" x 10.71" x 1.42" to 1.77"; 416mm x 272mm x 36.1 to 44.9mm
+with optical drive and battery: 6-cell: from 6.61 lb (3.0kg)
+Dark brown top, black bottom 
+Polycarbonate/Acrylonitrile-Butadiene-Styrene (PC/ABS) plasticLithium Ion 6-cellDiscrete models: up to 4.5 hr
+Mobile Intel HM65 Express Chipset
+None5-in-1 reader (MMC, Memory Stick
+®, Memory Stick PRO™, Secure Digital Card, 
+xD-Picture Card™)Four USB 2.0, external monitor (VGA DB-15, HDMI), ethernet (RJ-45)
+None
+One PCI Express Mini Card slot
+11b/g/n wireless4, PCIe Mini Card adapter, Broadcom® or Atheros® chip
+Bluetooth 2.1 wireless + EDR, USB 2.0 interfaceNone10/100 ethernet, Atheros AR8152LHigh Deﬁ  nition (HD) Audio, Conexant
+® CX20671 codec / 
+stereo speakers (1.5 watt x 2) / microphone, microphone input jack (3.5 mm), headphone jack (3.5 mm)Hard disk password, user password, administrator password, security lockholeNonePositioningProcessor
+Memory
+Diskette drive
+Optical
+SATA disk
+Widescreen  
+     display Camera
+Graphics
+Keyboard 
+Numeric keypadTouch pad
+Dimensions
+3
+Weight2
+Case color
+Case materialBattery - typeBattery - life
+10 
+Chipset ExpressCard/34Multicard reader
+Ports
+TV tuner
+PCIe Mini Card 11b/g/n
+28
+Bluetooth™ModemEthernetAudio support
+Security
+Fingerprint readerLenovo® G770 (1037) - Discrete (Windows 7) - web only models
+90-watt AC adapter Wireless on/off switchEPEAT™ Gold ratingENERGY STAR
+® qualiﬁ  ed
+RoHS-compliant1037-2JU i5-2410M 2.30 2.90 4GBx2 17.3" HD+ 2.0M HD 6650M 750GB8DVD ±RW  11b/g/n28Dark brown HDMI BT2.1 6-cell Prem 64
+1037-5LU i5-2430M 2.40 3.00 4GBx2 17.3" HD+ 2.0M HD 6650M 750GB Blu-ray 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64
+1037-5QU i5-2450M 2.50 3.10 4GBx2 17.3" HD+ 2.0M HD 6650M 750GB Blu-ray 11b/g/n Dark brown HDMI BT2.1 6-cell Prem 64Type-modelPro-cessor GHzWidescreen 
+display MemorySATA
+diskSATA
+opticalPCIe
+Mini Card
+802.11Win7
+preloadPersonal Systems Reference (PSREF)
+© Lenovo
+(BUD1-3) January 2012See footnotes for important warranty information           
+☞ US model(s) announced January 18, 2012; previous models on June 8 or December 21, 2011Preloaded operating system20 
+-  Genuine Windows® 7
+ Home Premium 64
+Preloaded applications14 (only some 
+listed)
+• Lenovo OneKey Recovery• Lenovo ReadyComm • ooVoo™• McAfee
+® VirusScan® Plus
+ (60 days of virus deﬁ  nitions)• Adobe
+® Reader®
+• Windows Live™ Essentials • CyberLink Y ouCam • Microsoft Ofﬁ
+  ce 2010 preloaded; 
+ purchase product key to activate• V
+eriFace™ • Lenovo Energy Management Software• Lenovo DirectShare• Cyberlink Power2Go (DVD±RW)• 17.3" widescreen, glossy display
+•  Integrated 2.0 megapixel camera and Lenovo's VeriFace facial recognition software   
+ helps control access to your notebook by recognizing your face
+•  Lenovo Rescue System provides OneKey recovery and OneKey Antivirus without   
+ booting into Windows•  These systems are Microsoft
+® Ofﬁ  ce 2010 Product Key Ready (O10PKR)Graphics Top colorCam-
+era
+Limited Warranty12 
+➫ 1-year warranty*:
+ * 1- year on major electronic   
+ components (including battery),     90-day on keyboard, hinges,    plastics, power cord, AC adapter➫ Mail In repair service
+➫ Service upgrade options
+58 
+ (in eligible locations):9
+  3-year Depot warranty 78Y1538
+  1-year Mail In with accidental   damage protection 55Y2511
+  3-year Mail In with accidental   damage protection 78Y1539
+  3-year Onsite warranty 78Y1540
+  1-year Onsite with accidental 
+  damage protection  78Y1533
+➫ Toll-free support for warranty   
+ issues during the warranty period
+12
+ via 877-453-6686Blue-
+toothBattery
+cells
+☞HDMI
+connectorMax
+turbo
+(GHz)Partial list of Lenovo® Care Services22 
+for Lenovo Essential notebooks
+For more information see: 
+http://www.lenovo.com/services_warranty/us/en/index.html
+Lenovo Care service upgrade optionsLenovo Value Line notebooks with 1-year Mail In warranty
+Mail in = Mail In repair, ADP = Accidental Damage Protection
+2-year Depot warranty  78Y1534  
+3-year Depot warranty  78Y1538  
+1-year Mail In warranty  with ADP 55Y2511  
+2-year Mail In warranty  with ADP 78Y1535  
+3-year Mail In warranty  with ADP 78Y1539  
+LOR = Lenovo Onsite Repair, ADP = Accidental Damage Protection
+1-year LOR warranty 9x5 NBD  78Y1532  
+2-year LOR warranty 9x5 NBD  78Y1536
+3-year LOR warranty 9x5 NBD  78Y1540
+1-year LOR warranty 9x5 NBD with ADP 78Y1533
+2-year LOR warranty 9x5 NBD with ADP 78Y1537
+3-year LOR warranty 9x5 NBD with ADP 78Y1541
+© Lenovo
+(S-VLN) March 2009Lenovo® Essential Notebooks - Lenovo CareSM ServicesPersonal Systems Reference (PSREF) Availability: All offers subject to 
+availability . Lenovo reserves the right to alter product offer ings and speciﬁ  cations 
+at any time, without notice. Lenovo is not responsible for photographic or typographic errors.
+ Warranty: For a copy of applicable 
+product warranties, write to: Warranty Information, P .O. Box 12195, RTP , NC, 
+27709, Attn: Dept ZPY A/B676. Lenovo makes no representation or warranty regarding third party products or services.
+ Footnotes:
+1 Power management, including Intel® 
+SpeedStep® T echnology , reduces 
+ processor speed when in battery mode.
+2 Weight includes battery and standard optical drive; weight may vary due to vendor components, manufacturing process and options.
+3 Thinness may vary at certain points on the system.
+4 Wireless capability: Requires com-patible wireless-enabled options sold separately .
+5 Post-warranty annual maintenance agreement: Service begins at the end of the base warranty or the end of any other applied warranty and maintenance option, whichever occurs last. Service delivery is not available the same day the maintenance agreement is purchased. Maintenance agreements must be purchased and the registration success-fully completed prior to the service b eing 
+available.
+6 Public network download modem speeds are limited to 53Kbps. Upload speeds are limited to 48Kbps for V .92 modems.  Actual speeds depend on many factors and are often less than the maximum possible. V .92 functions and speeds require compatible phone line and server equipment. Check with your  
+telephone and ISP service providers for 
+availability . 
+7 Maximum memory capacity may require the replacement of standard component with largest supported 
+ component available. Even though it 
+is possible to physically install 4GB of memory , the actual amount of memory addressable by a 32-bit operating system will be limited to 3GB. This limitation does not exist with  64-bit operating systems.8 Hard drive: GB = billion bytes, 
+ TB = trillion bytes. Accessible capacity is 
+less; up to 4GB is service partition. 
+9 Service upgrade  options: 
+ Upgrades do not apply to com ponents 
+covered for 90 days.  Those remain at 90-day warranty
+10 Battery: These model numbers achieved Battery Rundown Time of at least the time shown during tes ting. A description 
+of the tes ting available at lenovo.com/
+pc/ww/thinkpad/batterylife. Battery life (and recharge times) will vary based on many factors including screen bright-ness, applications, features, power management, battery conditioning, and other customer preferences. 
+11 Wireless: Based on IEEE 802. 1 1a, 802. 1 1b, and 802. 1 1g respectively . An adapter with 1 1a/b, 1 1b/g, or 1 1a/b/g can communicate on either/any of these listed format s respectively , the actual 
+connection will be based on the access point to which it connects.
+12 Limited warranty: Support unrelated to a warranty issue may be subject to 
+ additional charges.
+13 Onsite Service: If a machine is listed as having “On-site” , this me ans that on-site 
+service is available for the replacement of parts for warranty repairs. Certain parts, referred to as Customer Replace-able Unit (“CRU”) parts, are easy to install and require little or no tools or technical knowledge. Some examples of CRU parts are mice, keyboards, hard disk drives, speakers, and memory . If your 
+problem can be resolved with a CRU, the Support Center will offer to ship the part to you for you to install.
+14 Included software may differ from its retail version (if available), and may not include user manuals or all program functionality . Software license agree-ments may apply .
+15 Modem speeds: Public network 
+download speeds are limited to 53Kbps. Upload speeds are limited to 48Kbps for V .92 modems. Actual speeds depend on many factors and are often less than the maximum possible. V .92 functions and speeds require compatible phone line 
+ and server equipment. Check with your  
+telephone and ISP service providers for 
+availability . 
+17 International Warranty Service is avail-able for most products in any country in which this product is sold and serviced. Service delivery methods and parts avail-ability vary by co untry , may be different 
+from that in the country of pur chase, and 
+are subject to change without notice. Fees and restrictions may apply in some countries. 18 Telephone support may be subject to additional charges, even during the limit-ed warranty period. Response times may vary and may exclude some holidays. 
+19  EasyServ depot repair: The customer may be asked certain diagnostic ques-tions before a courier is sent. Y our 
+ purchase includes this depot repair 
+service, available in the U.S. during the limited warranty period. 
+20 Operating System: Level of support var-ies by operating system. Operating sys-tems not preloaded on the system may not provide full feature functionality . Refer to lenovo.com/pc/support and enter your machine type and model number for more information.
+21 For combination drives, maximum possible speeds only are given in the following order: CD write, CD rewrite, CD read, DVD read.
+22 Lenovo Care Services: These services are available for machines normally used for business, professional, or trade purposes, rather than personal, family , or household purposes. Not all machine types and models are covered. Service period begins with the equipment date of purchase. Service must be purchased during the original limited product war-ranty period. Service levels are response time objectives and are not guarantees. If the machine problem turns out to be a Customer Replaceable Unit (CRU), a part can be express shipped to you for quick replacement. For notebooks req uiring 
+LCD or other component replacement, Lenovo may choose to perform service at the depot repair center. Calls must be received by 5 pm local time in order to qualify for Next Business Day service. P&L means parts and labor. P/U means pick-up. See terms and conditions for complete details and restrictions.
+25 Wireless WAN Cards: Wireless data 
+service requires separate agreement with Verizon Wireless. Verizon Wireless, not Lenovo, is solely responsible for service. Monthly and airtime charges may apply . Service may not be available in all areas;  purchaser is responsible for verifying with Verizon Wireless that service is available for the intended location before the pur-chase of the card. For complete details, including service plans, additional re-quired hardware or software, and service coverage, visit www.verizonwireless.com.This publication was developed for prod-
+ucts and services offered in the United States. Lenovo may not offer the products, services or features discu ssed in this docu-
+ment in other countries. Lenovo may with-draw an offering at any time. Information is subject to change without notice. Consult your local representative for information on offerings available in your area.
+Lenovo reserves the right to change 
+speciﬁ  cations or other product information 
+without notice. Lenovo is not responsible for photographic or typographical errors. LENOVO PROVIDES THIS PUBLICATION “AS IS,” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdic-tions do not allow disclaimer of express or implied warranties in certain transactions, therefore this disclaimer may not apply to 
+you.
+ 
+ Trademarks: Lenovo, the Lenovo logo, 
+New World. New Thinking., Access Con-nections, Rescue and Recovery , ThinkCen-tre, ThinkPad, ThinkStation, ThinkVantage, and ThinkVision are trademarks of Lenovo. Microsoft, Windows, and Vista are regis-tered trademarks of Microsoft Corporation. Intel, the Intel logo, Intel Inside logo, Intel Core and Core Inside are trademarks of Intel Corporation in the US and other countries. Other company , pr oduct, or ser-
+vice names may be trademarks or service marks of others.
+ENERGY STAR: As an ENERGY STAR 
+Partner, Lenovo has determined that this product meets the ENERGY STAR guidelines for energy efﬁ  ciency . 
+Visit www.lenovo.com/safecomputing 
+per
+iodically for the latest information on 
+safe and effective computing.Visit www.lenovo.com/psref 
+f
+or the latest version of 
+Personal Systems Reference.
+© Lenovo, 2012.  
+All rights reserved.
+ Lenovo 1009 Think Place Morrisville, NC 27560 U.S.A.
+ January 2012
+ 3book.pdf28 The IEEE 802.11n speciﬁ  cation 
+(MIMO) has been ﬁ  nalized and is 
+currently in IEEE 802. 1 1n-2009 release. The maximum speed  depend s on the 
+access point device and the nu mber of 
+integrated antenna used for connection. An adapter with 1 1a/b, 1 1a/b/g, 1 1b/g/n, or 1 1a/b/g/n can communicate on any of its supported formats.
+58 Service upgrade options for Split Warranty: (1) Mail In upgrades cover all components except power adapter, key-board, plastics, and hinges after 90 days through end of ﬁ  rst year. The “Mail-In” up-grades require customer to pay the leg of shipping into the depot repair center. (2) 
+Onsite upgrades cover all components except power adapter, keyboard, plastics, and hinges after 90 days through end of term selected.  (3) Accide ntal D amage 
+Protection covers all components through the end of the term selected.
