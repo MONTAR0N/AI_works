@@ -1,0 +1,50 @@
+{
+  "model_name": "Lenovo ThinkPad Edge E425 and E525",
+  "max_memory": "Up to 8GB DDR3 (1333MHz)",
+  "processor_info": "AMD A8-3500M, AMD A6-3400M, AMD A4-3300M, AMD E2-3000M",
+  "storage_capacity": "Up to 750GB HDD",
+  "ports": [
+    {
+      "type": "VGA",
+      "quantity": 1
+    },
+    {
+      "type": "HDMI",
+      "quantity": 1
+    },
+    {
+      "type": "Gigabit Ethernet",
+      "quantity": 1
+    },
+    {
+      "type": "Microphone/speaker combo jack",
+      "quantity": 1
+    },
+    {
+      "type": "USB 2.0",
+      "quantity": 4
+    },
+    {
+      "type": "USB/eSATA combo",
+      "quantity": 1
+    },
+    {
+      "type": "4-in-1 card reader (MMC, SD, MS, MS-Pro, XD, SDHC)",
+      "quantity": 1
+    },
+    {
+      "type": "34mm ExpressCard Reader",
+      "quantity": 1
+    }
+  ],
+  "operating_system": "Genuine Windows 7 Home Basic 32-bit, Genuine Windows 7 Home Premium 32-bit, Genuine Windows 7 Home Premium 64-bit, Genuine Windows 7 Professional 32-bit, Genuine Windows 7 Professional 64-bit, Genuine Windows XP (via downgrade)",
+  "additional_features": [
+    "Integrated AMD Radeon discrete-class graphics",
+    "Low light-sensitive, 720p HD camera",
+    "Lenovo Enhanced Experience 2.0 for Windows 7 with RapidBoot technology",
+    "Lenovo Active Protection System",
+    "Spill-resistant keyboard",
+    "ThinkVantage Active Protection System",
+    "VISION Pro Technology from AMD"
+  ]
+}

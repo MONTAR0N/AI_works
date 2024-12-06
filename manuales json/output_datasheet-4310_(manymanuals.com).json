@@ -1,0 +1,43 @@
+{
+  "model_name": "Lenovo V470",
+  "max_memory": "8GB max PC3-10600 1333MHz DDR3",
+  "processor_info": "Intel Core i7-2670QM processor (quad-core, 2.20 GHz, 6MB cache), DDR3 memory controller (up to 1333MHz), Intel Turbo Boost 2.0 (3.10GHz), HT technology",
+  "storage_capacity": "750GB (5400 rpm) / SATA 3.0Gb/s",
+  "ports": [
+    {
+      "type": "USB 2.0",
+      "quantity": 3
+    },
+    {
+      "type": "eSATA/USB combo",
+      "quantity": 1
+    },
+    {
+      "type": "VGA DB-15",
+      "quantity": 1
+    },
+    {
+      "type": "HDMI",
+      "quantity": 1
+    },
+    {
+      "type": "Ethernet (RJ-45)",
+      "quantity": 1
+    }
+  ],
+  "operating_system": "Genuine Windows 7 Home Premium 64",
+  "additional_features": [
+    "DVD burner, dual-layer support",
+    "14.0\" HD (WXGA 1366x768) TFT color, VibrantView (glossy), LED backlight",
+    "2.0-megapixel camera, fixed focus",
+    "Intel HD Graphics 3000",
+    "Full-size keyboard, 6-row, recovery key",
+    "Two-button touch pad with scroll feature, multi-touch",
+    "6-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO, Secure Digital Card, Secure Digital High Capacity Card, xD-Picture Card)",
+    "Intel Centrino Wireless-N 1000",
+    "Bluetooth 2.1 wireless + EDR",
+    "Gigabit ethernet, RealTek RTL8111E",
+    "High Definition (HD) Audio, RealTek ALC272 codec",
+    "Fingerprint reader"
+  ]
+}

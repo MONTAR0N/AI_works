@@ -1,0 +1,63 @@
+{
+  "model_name": "Lenovo IdeaPad Z570",
+  "max_memory": "Up to 8GB DDR3",
+  "processor_info": "2nd generation Intel Core i5-2410M Processor with Intel Turbo Boost Technology 2.0 (2.30GHz, 3MB Cache) or 2nd generation Intel Core i3-2310M Processor (2.10GHz, 3MB Cache)",
+  "storage_capacity": "Up to 1TB 5400rpm HDD",
+  "ports": [
+    {
+      "type": "USB 2.0",
+      "quantity": 4
+    },
+    {
+      "type": "eSATA",
+      "quantity": 1
+    },
+    {
+      "type": "5-in-1 card reader",
+      "quantity": 1
+    },
+    {
+      "type": "RJ-45",
+      "quantity": 1
+    },
+    {
+      "type": "VGA",
+      "quantity": 1
+    },
+    {
+      "type": "HDMI",
+      "quantity": 1
+    },
+    {
+      "type": "internal analog microphone",
+      "quantity": 1
+    },
+    {
+      "type": "1/8” stereo headphone output & microphone input combo jack",
+      "quantity": 1
+    }
+  ],
+  "operating_system": "Genuine Windows 7 Home Premium",
+  "additional_features": [
+    "Thermal Management System",
+    "Lenovo ReadyComm",
+    "Multi-touch touchpad",
+    "Integrated Wi-Fi and WiMAX2 connectivity",
+    "Long battery life",
+    "Intel Wireless Display Technology",
+    "DirectShare",
+    "SRS Premium Surround Sound audio enhancement",
+    "HD graphics support",
+    "OneKey Theater II",
+    "VeriFace facial recognition technology",
+    "Lenovo Enhanced Experience 2.0 for Windows 7 with RapidBoot technology",
+    "15.6” Backlit LED HD display (1366x768), 16:9 widescreen",
+    "NVIDIA GeForce GT540M 2GB graphics with DirectX 11",
+    "Integrated Bluetooth",
+    "Integrated DVD reader/writer & Blu-ray Disc drive",
+    "Integrated 0.3/2M (720p HD) webcam",
+    "AccuType keyboard",
+    "Energy Management",
+    "OneKey Rescue System"
+  ]
+}

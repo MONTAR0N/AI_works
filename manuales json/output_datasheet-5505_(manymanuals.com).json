@@ -1,0 +1,35 @@
+{
+  "model_name": "Lenovo IdeaPad U160",
+  "max_memory": "2GB max / PC2-5300 667MHz DDR2 or PC3-10600 1333MHz DDR3",
+  "processor_info": "Intel Atom Processor N450/N455 with single-core, DMI (Direct Media Interface), integrated DDR2/DDR3 memory controller (up to 667MHz), Hyper-Threading Technology, and 512KB L2 cache",
+  "storage_capacity": "Up to 250GB (5400 rpm) SATA 3.0Gb/s",
+  "ports": [
+    {
+      "type": "USB 2.0",
+      "quantity": 3
+    },
+    {
+      "type": "VGA DB-15",
+      "quantity": 1
+    },
+    {
+      "type": "Ethernet (RJ-45)",
+      "quantity": 1
+    }
+  ],
+  "operating_system": "Genuine Windows 7 Starter Edition",
+  "additional_features": [
+    "5-in-1 reader (MultiMedia Card, Memory Stick, Memory Stick PRO, Secure Digital Card, xD-Picture Card)",
+    "Integrated camera",
+    "Intel Graphics Media Accelerator 3150",
+    "Active Protection System",
+    "LED backlight display",
+    "Dolby Headphone certified audio",
+    "Lenovo OneKey Recovery",
+    "Lenovo VeriFace face recognition software",
+    "Lenovo Quick Start",
+    "EPEAT Gold rating",
+    "ENERGY STAR 5.0-compliant",
+    "RoHS-compliant"
+  ]
+}

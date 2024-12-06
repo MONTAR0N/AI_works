@@ -1,0 +1,41 @@
+{
+  "model_name": "Lenovo G575",
+  "max_memory": "Up to 8GB DDR3 1066MHz memory",
+  "processor_info": "AMD Dual-Core Processor E-350 (1.60GHz, 1MB Cache)",
+  "storage_capacity": "Up to 750GB HDD storage",
+  "ports": [
+    {
+      "type": "USB 2.0",
+      "quantity": 4
+    },
+    {
+      "type": "2-in-1 card reader (MMC, SD)",
+      "quantity": 1
+    },
+    {
+      "type": "headphones",
+      "quantity": 1
+    },
+    {
+      "type": "microphone",
+      "quantity": 1
+    },
+    {
+      "type": "VGA",
+      "quantity": 1
+    }
+  ],
+  "operating_system": "Genuine Windows® 7 Home Premium, DOS",
+  "additional_features": [
+    "15.6” HD screen (1366x768), 16:9 widescreen",
+    "AMD Radeon™ HD 6370M 1GB graphics",
+    "Integrated Bluetooth® (optional)",
+    "High-speed 802.11g/n Wi-Fi",
+    "Integrated DVD reader/writer & Blu-ray Combo drive",
+    "Integrated 0.3M/2.0M webcam",
+    "VeriFace® facial recognition",
+    "OneKey™ Rescue System",
+    "Lenovo® DirectShare",
+    "Energy Management"
+  ]
+}

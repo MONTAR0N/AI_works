@@ -1,0 +1,45 @@
+{
+  "model_name": "Lenovo IdeaPad S300",
+  "max_memory": "Up to 4GB DDR3 – 1333 (2nd generation Intel Core) / 1600MHz (3rd generation Intel Core)",
+  "processor_info": "Up to 3rd gen Intel Core i5 processor, 3rd Generation Intel Core i5 3317U processor, 3rd Generation Intel Core i3 3217U processor, 2nd generation Intel Core i3 2365M processor, Intel Pentium ULV997 processor, Intel Pentium ULV987 processor",
+  "storage_capacity": "Up to 500GB HDD storage",
+  "ports": [
+    {
+      "type": "USB 2.0",
+      "quantity": 2
+    },
+    {
+      "type": "USB 3.0",
+      "quantity": 1
+    },
+    {
+      "type": "HDMI",
+      "quantity": 1
+    },
+    {
+      "type": "2in1 (headphone & mic)",
+      "quantity": 1
+    },
+    {
+      "type": "2in1 (SD, MMC) card reader",
+      "quantity": 1
+    }
+  ],
+  "operating_system": "Genuine Windows 7 Home Premium",
+  "additional_features": [
+    "13.3” HD display (1366x768), 16:9 widescreen",
+    "AMD Radeon HD 7450M Graphics with 1GB VRAM",
+    "Integrated Bluetooth & 802.11b/g/n Wi-Fi",
+    "Integrated 720p HD webcam",
+    "Stereo speakers and Dolby Advanced Audio v2 certification",
+    "HD graphics support & HDMI output",
+    "AccuType keyboard with individual rounded keys",
+    "Energy Management",
+    "Lenovo Quick Start ‘instant on’ function",
+    "OneKey Rescue System",
+    "Intelligent Touchpad",
+    "VeriFace face recognition",
+    "Long battery life up to 5hrs",
+    "Intel Wireless Display (WiDi) Technology"
+  ]
+}
